@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The observations of Mr. Lillie, and many famous and learned divines, touching the present visitation of the plague of pestilence with a prayer to be used in all families, for sheathing of the sword of the destroying angel, and to divert Gods heavy judgments: as also several excellent receipts &amp; approved medicines as well for curing the plague, as for preventing the further infection: as hath formerly been approved of in the year, 1625. when thirty five thousand four hundred and twenty eight died of the prstilence; but by the blessing of God, and the singular operation and vertue of these following receipts the vemone of this raging distemper was expelled, and not one died; as appears by the wonderful miracles of mercy recited in the margent. With the number that now dies weekly of the present visitation, both in city and suburbs.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53888</idno>
+            <idno type="STC">Wing O99A</idno>
+            <idno type="STC">ESTC R216877</idno>
+            <idno type="EEBO-CITATION">99828594</idno>
+            <idno type="PROQUEST">99828594</idno>
+            <idno type="VID">33024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The observations of Mr. Lillie, and many famous and learned divines, touching the present visitation of the plague of pestilence with a prayer to be used in all families, for sheathing of the sword of the destroying angel, and to divert Gods heavy judgments: as also several excellent receipts &amp; approved medicines as well for curing the plague, as for preventing the further infection: as hath formerly been approved of in the year, 1625. when thirty five thousand four hundred and twenty eight died of the prstilence; but by the blessing of God, and the singular operation and vertue of these following receipts the vemone of this raging distemper was expelled, and not one died; as appears by the wonderful miracles of mercy recited in the margent. With the number that now dies weekly of the present visitation, both in city and suburbs.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton, living near the Crowns in Barbican,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>July 7. 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  Early works to 1800.</term>
+               <term>Plague --  Prevention --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33024:1"/>
+            <head>The Obſervations of Mr. LILLIE; and many Famous and Learned Divines, touching the preſent Viſitation of the PLAGUE of PESTILENCE; With a Prayer to be uſed in all Families, for ſheathing of the Sword of the Deſtroying Angel, and to divert Gods heavy Judgments: As alſo ſeveral excellent Receipts &amp; approved Medicines as well for curing the Plague, as for preventing the further Infection: As hath f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erly been approved of in the <hi>Year,</hi> 1625. when thirty five thouſand four hundred and twenty eight died of the Peſtilence; but by the bleſ<g ref="char:EOLhyphen"/>ſing of God, and the ſingular operation and vertue of theſe following Receipts the Venome of this raging Diſtemper was expelled, and not one died; as appears by the <hi>Wonderful Miracle of Mercy</hi> recited in the <hi>Margent.</hi> With the number that now dies weekly of the preſent Viſitation, both in City and Suburbs.</head>
+            <p>WHereas it hath pleaſed <hi>Almighty God</hi> to Viſit this <hi>Metropolis</hi> with His preſent Judgments, and to ſtreatch forth his hand of Indignation againſt us; let every one therefore endeavour b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prayer and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upplication to amend his life, to become new Creatures, to reforme themſelves of their wicked practiſes, and to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enounce all ſinful wayes, to keep and obey Gods Commandements, and to prize the Holy Sabboth, and his bleſſed Ordinances; and that ye may all do, apply your ſelves to ſuch Rules and precepts that may bring happineſs to your immortal ſouls; and as the learned Divines, Mr. <hi>Lillie</hi> and ſeveral others obſerve the only Plague-Water for this preſent Infection, is, to cleanſe and waſh your hearts of all filth and wickedneſs, to humble your ſelves under this p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſent Judgment, and to forſake your ſins; that ſo the Lord may be pleaſed to command the ſlaying Angel to ſheath his word and to put th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe A<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>owes into the Quiver, which are now diſperſed into ſeveral parts of the City; and as God was graciouſly pleaſed to make a miraculous <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Peſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lence in the year 1625. when 35417 died of the Plague in <hi>London</hi> and the Liberties, and 54265 of other Diſeaſes; &amp; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the mi<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſolation it pleaſed thee Lord moſt wonderfully to command health &amp; ſalvation, and to reſtore us ſuddenly to joy and gladneſs<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> let thy infinite mercies ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>paſs all our hopes; and be graciouſly pleaſed now againe to turn thy fury into Clemency and to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> people, whoſe daily ſupplications we earneſtly implore may be amongſt all Families in manner and forme as followeth.</p>
+            <p>
+               <q>O Lord, God great <hi>Jehova<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> thou merciful <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Heaven and Earth, we (moſt miſerable and dejected ſinners) here preſent our ſelves before thy Heavenly Throne, intreating thee to loo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> diſtreſſed offenders; we confeſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we are unworthy of the name of thy Chil<g ref="char:EOLhyphen"/>dren we have <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſpiſed thy Love, and forſaken thy wayes, made ſlight of thy words and refuſed thy Chatiſements, without thinking what we deſerve; we have not feared thy Judgments, nor dreaded thy threatnings; we have not ſought thy favours, nor liſtned after thy mercies; we have winked at our ſmall ſins, and ſmothered our great ſins; we have drawn down thy Iudgments upon us and thou haſt juſtly ſent the Plague of Peſtilence amongſt us: Our ſins are manifold, our tranſgreſſions without number, they have even ſought for Vengeance, and now according to our deſerts, thou haſt ſent the Deſtroying Angel to marke us out for Death. The graves ſeek to devour us, the Bells toal for us, Death and Time are agreed to carry us away; but in thy merciful help only there is hope, and on thee we depend for help: O help us good God<g ref="char:punc">▪</g> O ſpare us ſweet Saviour and as thou didſt ſpare in the time of King <hi>David,</hi> &amp; Charged'ſt the deſtroying Angel to ceaſe ſo we beſeech thee now to ſpare thy people, ceaſe thy anger, take we intreat thee this Plague of Peſtilence from us, with-hold back thy wrath and as thou ſpared'ſt the repo<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing <hi>Ninivites,</hi> ſo make us repent, and ſave this City and Nation. O Lord help us unfeignedly to bewail our former life paſt, and ſeek effectual amendment for a better life hereafter, to which better life pre<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tly bring us, Lord we beſeech thee, and therein hold us for ever by the power of thy grace in Ieſus Chaiſt, to whom with thee O Father, and the Bleſſed Spirit, be glory by us, for all thy mercies on us, now and ever, <hi>Amen.</hi>
+               </q>
+            </p>
+            <div type="part">
+               <head>Certain approved Medicines for the <hi>Plague,</hi> both to prevent that <hi>Contagion,</hi> and to expel it after it be taken; as have been approved of in the year 1625. when Thiry-five thouſand four-hundred twenty-eight died of the <hi>Plague</hi> in one year; as alſo in this preſent Viſstation,1665.</head>
+               <p>
+                  <list>
+                     <item>1. A cheap Medicine to keep them from Infection is, Take a pinte of new Milk, and cut two Cloves of Garlick very ſmall, put it in the Milk, and drink it every Morning faſting, and it preventeth Infection.</item>
+                     <item>2. A poſſet-drink to remove the <hi>plague</hi> from the heart, that is, an Ale poſſet-drink with Pimper<g ref="char:EOLhyphen"/>nel ſeethed in it, till it taſtes ſtrong of it<g ref="char:punc">▪</g> drank often, removes the Infection, though it hath got to the very heart.</item>
+                     <item>3. Another approved remedy againſt the <hi>Plague,</hi> Take a ſprig of <hi>Rue,</hi> otherwiſe called <hi>Herb-of-grace,</hi> and ſhred it, and put it in a Fig or two, and eat it every Morning faſting, it keeps the body from Infection, and purifieth the blood; withall, ſpare exceſs of drinking, eſpecially Ale and Bottle-drink, and be very temperate in the Liquors, Tobacco is good every morning, and a great preſervative againſt the Infection.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>Amongſt the many Preſcriptions for the Cure of the Plague which we have publiſted, this is very effectual, and if carefully obſerved (by Gods bleſſing). may cure many.</head>
+               <p>At the firſt taking of the Infection, or when they find themſelves ill with the accuſtomed Symptoms, as in other highly malignant Feavers, let them empty their Stomack (if full or foul) with <hi>Carduus</hi> Poſſet in a large quantity, or warm water; and if need be, take a Clyſter of Milk and Sugar. Then betaking themſelves to bed, drink a good draught of warm Poſſet-Ale with a little Vinegar, and as much as a good Walnut of <hi>London-</hi> Treacle diſſol<g ref="char:EOLhyphen"/>ved in it; or take the Treacle firſt, and drink the Poſſet-Ale after; and ſo without their Shifts let them ſweat twenty four hours or more, renewing the Treacle and Poſſet-Ale every ſixth or ſeventh hour, but in half the proportion; and in the mean while, let them be refreſhed with Poſſet-Ale, or Grewel, or Oatmeal Caudle, or Broth in which Harts-horn, Mace, Marjoram and Marigold flowers are boiled: Beſides, they may take two or three ſpoonfuls of Plague-water. At firſt alſo let large Bliſters be raiſed under the Ears, near the Armholes and Groins, and kept running till the Diſtemper be over. Mithridate and <hi>Venice-</hi>Treacle are alſo very effectual <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n like manner taken, but in half the quantity.</p>
+            </div>
+            <div type="part">
+               <head>For Prevention, this:</head>
+               <p>Take a pint of Whitewine-Vinegar, two ounces of <hi>London-Treacle,</hi> mix them well in a Glaſs-bottle: take one good ſpoonful every morning and evening if you go ab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oad; or take half a ſpoonful of Bole-Armen<g ref="char:punc">▪</g> with two ſpoonfuls of Plague-water or Angelica water every morning. Take once a week three Pills of Ruffus at bed-time. Hold oft in your mouth Myrrh or Zedoaria. Take heed of heating the Blood any way. Avoid Fruits, eſpe<g ref="char:EOLhyphen"/>cially Plums, Melons, Cucumers, &amp;c. Keep to a ſpare and ſingle Diet. This, under that great Preſerver, <hi>Gods Protection,</hi> may be a good ſecurity.</p>
+            </div>
+            <div type="part">
+               <head>An approved Remedy againſt the Peſtilence be it never ſo vehement.</head>
+               <p>Take an Onion and cut him overthwart, then make little hole in each p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ece, the which you ſhall fill with fine Treacle, then ſet the pieces together again as they we<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, then wrap them in a white linnen cloth. Puting it ſo to roaſt in the Embers and Aſhes, then when it is roaſted enough, preſs out all the juyce of it and give the Patient a ſpoonful thereof to drink<g ref="char:punc">▪</g> and ſo by Gods help he ſhall feel eaſe, and moſt undoubtedly be healed.</p>
+            </div>
+            <div type="part">
+               <p>Bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied within the 97 P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſhes within the Walls,
+<list>
+                     <item>of all Diſeaſes—93,
+<list>
+                           <item>Whereof, of the PLAGUE—23</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <list>
+                  <item>St. Andrews Holborn 35</item>
+                  <item>St. Bartholomew Great 4</item>
+                  <item>St. Bartholomew Leſſe 0</item>
+                  <item>St. Brides Pariſh 7</item>
+                  <item>Bridewel Precinct 2</item>
+                  <item>St. Botolph Alderſgate 4</item>
+                  <item>St. Botolph Aldgate 1</item>
+                  <item>St. Botolph Biſhopſgate 17</item>
+                  <item>St. Dunſtans Weſt 5</item>
+                  <item>St. George Southwark 2</item>
+                  <item>St. Giles Cripplegate 32</item>
+                  <item>St. Olaves Southwark 2</item>
+                  <item>St. Saviours Southwark 0</item>
+                  <item>St. Sepulchres Pariſh 48</item>
+                  <item>St. Thomas Southwark 2</item>
+                  <item>Trinity Minories 0</item>
+                  <item>At the Peſthouſe 5</item>
+               </list>
+               <p>Buried in the 16 Pariſhes without the Walls, and at the Peſthouſe, of the Plague—166</p>
+               <list>
+                  <item>St. Giles in the Fields 149</item>
+                  <item>Hackney Pariſh 0</item>
+                  <item>St. James Clerkenwel 10</item>
+                  <item>St. Katharine Tower 0</item>
+                  <item>Lambeth Pariſh 0</item>
+                  <item>St. Leanard Shoreditch 7</item>
+                  <item>St. Magdalen Bermend 0</item>
+                  <item>St. Mary Newington 0</item>
+                  <item>St. Mary Iſlington 2</item>
+                  <item>St. Mary whitechappel 6</item>
+                  <item>Redriff Pariſh 0</item>
+                  <item>Stepney Pariſh 2</item>
+               </list>
+               <p>Buried in the 12 out Pariſhes in <hi>Middleſex</hi> and <hi>Surrey</hi> of the Plague—176</p>
+               <list>
+                  <item>St. Clement Danes 19</item>
+                  <item>St. Paul Covent Garden 1</item>
+                  <item>St. Martins in the Fields 55</item>
+                  <item>St. Mary Savoy 4</item>
+                  <item>St. Margaret Weſtminſter 26</item>
+                  <item>Whereof at the Peſthouſe 4</item>
+               </list>
+               <p>Buried in the 5 Pariſhes, in the City and Liberties of <hi>Weſtminſter,</hi> of the Plague—105</p>
+               <p>Buried
+<list>
+                     <item>of all Diſeaſes—1006</item>
+                     <item>Plague—470</item>
+                     <item>Increaſed in the Burials this Week—322.</item>
+                     <item>Pariſhes clear—79.</item>
+                     <item>Infected—33</item>
+                  </list>
+               </p>
+               <p>
+                  <g ref="char:dtristar">*⁎*</g> In and about <hi>London,</hi> from the 2. of <hi>Decem.</hi> 1624. to the 23 of <hi>Decem.</hi> 1625. of all Diſeaſes—63001. in <hi>London</hi> and the Liberties; <hi>Aug.</hi> 18. 1625. of all Diſeaſes, 5205. of the Plague—4463. the ſame year; <hi>March</hi> 9. of all Diſeaſes in <hi>London,</hi> and the Liberties in one week but—141. Of the plague none. <hi>A Miracle of Mercy:</hi> Glory be to the moſt HIGH.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>George Horton,</hi> living near the Crowns in <hi>Barbican,</hi>—July 7. 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
